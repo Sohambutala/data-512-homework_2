@@ -6,7 +6,7 @@ This repository encompases data and analysis for the project that emphasizes con
 2. The states with the highest and lowest proportion of high quality articles about cities.
 3. A ranking of US geographic regions by articles-per-person and proportion of high quality articles.
 
-# Data Source and Data Acquisition
+# Data Sources
 
 ## City Data
 - Dataset: [us_cities_by_state_SEPT.2023.csv](./data/us_cities_by_state_SEPT.2023.csv)
